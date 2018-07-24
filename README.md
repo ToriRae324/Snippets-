@@ -9,3 +9,4 @@
 * Comment the posts of other members
 
 Website: https://fathomless-garden-19281.herokuapp.com/
+### Demo User: Username: Guest, Password: Guest
